@@ -13,7 +13,6 @@ import controller.LoginController;
  * @author Dodi
  */
 public class LoginView extends javax.swing.JFrame {
-
     /**
      * Creates new form Login
      */
